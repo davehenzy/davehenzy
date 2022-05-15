@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +2348147192169 or +2349038994214 davehenzy@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
