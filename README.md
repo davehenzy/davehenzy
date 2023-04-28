@@ -6,7 +6,6 @@
 
 <h2 align="center">Hi 👋, I'm 🎓 Ajiblu David Henry, a Front End Web Developer (specializing in React Applications) and a Youtuber . I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in late-2022.</h2>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 <a href="https://app.daily.dev/davehenzy"><img src="https://api.daily.dev/devcards/f1d10dd4a8174892ba6f12c7079ca873.png?r=vp6" width="400" alt="David Henry's Dev Card"/></a>
 <p>🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from guitar, sign langugae and to some whacky ones like writing with my left hand.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davehenzy&label=Profile%20views&color=0e75b6&style=flat" alt="davehenzy" /> </p>
